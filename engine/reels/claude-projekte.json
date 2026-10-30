@@ -1,0 +1,107 @@
+{
+ "id": "claude-projekte",
+ "topic": "claude",
+ "partner": false,
+ "scenes": [
+  {
+   "poses": [
+    "arme2",
+    "zeigen2"
+   ],
+   "title": "Nie wieder bei null starten",
+   "text": "Du erklärst Claude in jedem Chat wieder, wer deine Kunden sind? Das geht einfacher.",
+   "bullets": [
+    {
+     "text": "Jedes Mal alles neu erklären?",
+     "at": "jedem"
+    },
+    {
+     "text": "Das geht einfacher",
+     "at": "einfacher"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "laptop",
+    "zeigen2",
+    "handy"
+   ],
+   "title": "Kontext macht den Unterschied",
+   "text": "Je mehr passender Hintergrund Claude hat, etwa Zielgruppe, Ton und Ziel, desto besser wird das Ergebnis.",
+   "bullets": [
+    {
+     "text": "Zielgruppe",
+     "at": "Zielgruppe"
+    },
+    {
+     "text": "Ton",
+     "at": "Ton"
+    },
+    {
+     "text": "Ziel",
+     "at": "Ziel"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "zeigen2",
+    "laptop"
+   ],
+   "title": "Projekte in Claude",
+   "text": "In Projekten hinterlegst du Anweisungen und Wissen einmal. So musst du nicht in jedem Chat von vorn beginnen.",
+   "bullets": [
+    {
+     "text": "Anweisungen & Wissen ablegen",
+     "at": "Anweisungen"
+    },
+    {
+     "text": "Nicht mehr von vorn beginnen",
+     "at": "vorn"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "handy",
+    "laptop",
+    "zeigen2"
+   ],
+   "title": "Beispiel: Fotografin",
+   "text": "Zum Beispiel als Fotografin: Du notierst einmal, wen du ansprichst und wie du klingst, und startest deine Chats im Projekt.",
+   "bullets": [
+    {
+     "text": "Zielgruppe notieren",
+     "at": "ansprichst"
+    },
+    {
+     "text": "Deinen Ton festhalten",
+     "at": "klingst"
+    },
+    {
+     "text": "Chats im Projekt starten",
+     "at": "startest"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "arme2",
+    "zeigen2"
+   ],
+   "title": "Link in meiner Bio",
+   "text": "Lies die Ergebnisse trotzdem immer kurz gegen. Wie du den Einstieg machst, findest du über den Link in meiner Bio.",
+   "bullets": [
+    {
+     "text": "Ergebnisse gegenlesen",
+     "at": "Lies"
+    },
+    {
+     "text": "Link in meiner Bio",
+     "at": "Link"
+    }
+   ]
+  }
+ ]
+}

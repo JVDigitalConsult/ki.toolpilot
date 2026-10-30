@@ -1,0 +1,85 @@
+{
+ "id": "alles-ineinander",
+ "topic": "kombi",
+ "partner": true,
+ "scenes": [
+  {
+   "poses": [
+    "stehen",
+    "zeigen"
+   ],
+   "title": "So greift alles ineinander",
+   "text": "So wird aus Reichweite eine Liste, die dir gehört. In drei Schritten.",
+   "bullets": [
+    {
+     "text": "Reichweite wird zur Liste",
+     "at": "Liste"
+    },
+    {
+     "text": "In 3 Schritten",
+     "at": "drei"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "tablet",
+    "zeigen"
+   ],
+   "title": "Schritt 1: Planen",
+   "text": "Erstens: Du planst deinen Beitrag mit Metricool.",
+   "bullets": [
+    {
+     "text": "Beitrag mit Metricool planen",
+     "at": "planst"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "zeigen",
+    "stehen"
+   ],
+   "title": "Schritt 2: Link in Bio",
+   "text": "Zweitens: Deine Follower öffnen den Link in deiner Bio.",
+   "bullets": [
+    {
+     "text": "Follower öffnen den Link",
+     "at": "öffnen"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "daumen",
+    "tablet"
+   ],
+   "title": "Schritt 3: Eintragen",
+   "text": "Drittens: Sie tragen sich auf deiner FunnelCockpit-Seite ein. Und schon wächst deine eigene E-Mail-Liste.",
+   "bullets": [
+    {
+     "text": "Eintragung über FunnelCockpit",
+     "at": "tragen"
+    },
+    {
+     "text": "Deine eigene E-Mail-Liste",
+     "at": "wächst"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "zeigen",
+    "winken"
+   ],
+   "title": "Link in meiner Bio",
+   "text": "Alle Infos zu beiden Tools findest du über den Link in meiner Bio.",
+   "bullets": [
+    {
+     "text": "Link in meiner Bio",
+     "at": "Link"
+    }
+   ]
+  }
+ ]
+}

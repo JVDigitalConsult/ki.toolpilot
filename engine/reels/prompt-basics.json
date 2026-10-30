@@ -1,0 +1,111 @@
+{
+ "id": "prompt-basics",
+ "topic": "claude",
+ "partner": false,
+ "scenes": [
+  {
+   "poses": [
+    "arme2",
+    "zeigen2"
+   ],
+   "title": "Was ist ein Prompt?",
+   "text": "Das Ergebnis passt nicht? Dann liegt es oft an der Eingabe.",
+   "bullets": [
+    {
+     "text": "Ergebnis passt nicht?",
+     "at": "Ergebnis"
+    },
+    {
+     "text": "Oft liegt es an der Eingabe",
+     "at": "Eingabe"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "laptop",
+    "zeigen2",
+    "handy"
+   ],
+   "title": "Das gehört rein",
+   "text": "Ein Prompt ist alles, was du Claude schreibst: Frage, Aufgabe, Hintergrund und bei Bedarf Beispiele.",
+   "bullets": [
+    {
+     "text": "Frage",
+     "at": "Frage"
+    },
+    {
+     "text": "Aufgabe",
+     "at": "Aufgabe"
+    },
+    {
+     "text": "Hintergrund",
+     "at": "Hintergrund"
+    },
+    {
+     "text": "Beispiele",
+     "at": "Beispiele"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "zeigen2",
+    "laptop",
+    "handy"
+   ],
+   "title": "3 Tipps, die sofort helfen",
+   "text": "Drei Dinge helfen sofort. Nenne den Zweck. Lege das Format fest, zum Beispiel kurze Absätze. Und sag positiv, was du willst, statt nur zu verbieten.",
+   "bullets": [
+    {
+     "text": "Zweck nennen",
+     "at": "Zweck"
+    },
+    {
+     "text": "Format festlegen",
+     "at": "Format"
+    },
+    {
+     "text": "Positiv formulieren",
+     "at": "positiv"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "arme2",
+    "zeigen2"
+   ],
+   "title": "Der Kollegen-Test",
+   "text": "Prüf-Frage: Würde ein Kollege ohne Vorwissen deinen Prompt verstehen? Dann versteht ihn meist auch Claude.",
+   "bullets": [
+    {
+     "text": "Versteht es ein Kollege?",
+     "at": "Kollege"
+    },
+    {
+     "text": "Dann meist auch Claude",
+     "at": "versteht"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "handy",
+    "zeigen2"
+   ],
+   "title": "Link in meiner Bio",
+   "text": "Probier es heute bei einer kleinen Aufgabe aus. Mehr Hilfe zum Einstieg findest du über den Link in meiner Bio.",
+   "bullets": [
+    {
+     "text": "Heute ausprobieren",
+     "at": "Probier"
+    },
+    {
+     "text": "Link in meiner Bio",
+     "at": "Link"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+  "_hinweis": "Avatar-Bibliothek. Pro Reel immer nur Posen EINES Outfits verwenden. Neue Outfits/Posen: PNG 1024x1536 mit transparentem Hintergrund nach public/avatar/<name>.png legen und hier eintragen (canvaAssetId für Canva-Posts).",
+  "outfits": {
+    "outdoor": {
+      "beschreibung": "Mit Sonnenbrille, Rucksack und Karohemd – Abenteuer-/Pilot-Look",
+      "posen": {
+        "stehen": {"canvaAssetId": "MAHZZGH7aek", "passt": "Standard, neutral"},
+        "zeigen": {"canvaAssetId": "MAHZZhAzEDA", "passt": "Hinweise, 'schau hier', CTA"},
+        "daumen": {"canvaAssetId": "MAHZZpILVLI", "passt": "Erfolg, Empfehlung"},
+        "winken": {"canvaAssetId": "MAHZZn5uFKw", "passt": "Begrüßung, Einstieg"},
+        "arme": {"canvaAssetId": "MAHZZnGgn5o", "passt": "Klartext, Fehler, Warnung"},
+        "tablet": {"canvaAssetId": "MAHZZn3JzRg", "passt": "Tools, Planung, Auswertung"},
+        "gehen": {"canvaAssetId": "MAHZZtAY13Q", "passt": "Schritt für Schritt, Start"}
+      }
+    },
+    "casual": {
+      "beschreibung": "Ohne Sonnenbrille und Rucksack, Karohemd – Büro-/Alltags-Look",
+      "posen": {
+        "zeigen2": {"canvaAssetId": "MAHZZggHCPs", "passt": "Hinweise, CTA"},
+        "laptop": {"canvaAssetId": "MAHZZgQCvco", "passt": "Claude, Texte, Arbeiten"},
+        "arme2": {"canvaAssetId": "MAHZZjy4w18", "passt": "Klartext, entspannt"},
+        "handy": {"canvaAssetId": "MAHZZjMXZrY", "passt": "Instagram, Social Media, Metricool"}
+      }
+    }
+  }
+}

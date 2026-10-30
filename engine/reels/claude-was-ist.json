@@ -1,0 +1,17 @@
+{
+  "id": "claude-was-ist",
+  "topic": "claude",
+  "partner": false,
+  "scenes": [
+    {"poses": ["zeigen2", "arme2"], "title": "Was ist Claude?", "text": "Du hörst überall von KI, aber was ist Claude eigentlich? In dreißig Sekunden weißt du es.",
+     "bullets": [{"text": "Claude kurz erklärt", "at": "Claude"}, {"text": "In 30 Sekunden", "at": "dreißig"}]},
+    {"poses": ["laptop", "zeigen2", "handy"], "title": "Dein KI-Assistent", "text": "Claude ist ein KI-Assistent von Anthropic. Du schreibst ihm im Chat, was du brauchst. Ganz normal, wie einer Kollegin.",
+     "bullets": [{"text": "KI-Assistent von Anthropic", "at": "Anthropic"}, {"text": "Du schreibst im Chat", "at": "schreibst"}, {"text": "Wie mit einer Kollegin", "at": "Kollegin"}]},
+    {"poses": ["laptop", "zeigen2", "handy", "laptop"], "title": "Das kann Claude", "text": "Zum Beispiel Texte schreiben und überarbeiten, lange Inhalte zusammenfassen, Ideen sammeln oder Dateien auswerten.",
+     "bullets": [{"text": "Texte schreiben", "at": "Texte"}, {"text": "Inhalte zusammenfassen", "at": "zusammenfassen"}, {"text": "Ideen sammeln", "at": "Ideen"}, {"text": "Dateien auswerten", "at": "Dateien"}]},
+    {"poses": ["arme2", "zeigen2"], "title": "Immer prüfen", "text": "Wichtig: Claude kann sich irren. Prüf die Ergebnisse also immer, bevor du sie verwendest.",
+     "bullets": [{"text": "Claude kann sich irren", "at": "irren"}, {"text": "Ergebnisse immer prüfen", "at": "Prüf"}]},
+    {"poses": ["zeigen2", "laptop"], "title": "Link in meiner Bio", "text": "Im nächsten Reel zeige ich dir, wie du richtig promptest. Mehr Tool-Tipps findest du über den Link in meiner Bio.",
+     "bullets": [{"text": "Nächstes Reel: Prompten", "at": "promptest"}, {"text": "Mehr Tipps: Link in Bio", "at": "Link"}]}
+  ]
+}

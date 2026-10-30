@@ -1,0 +1,103 @@
+{
+ "id": "claude-skills",
+ "topic": "claude",
+ "partner": false,
+ "scenes": [
+  {
+   "poses": [
+    "arme2",
+    "zeigen2"
+   ],
+   "title": "Was sind Skills?",
+   "text": "Du erklärst Claude immer wieder denselben Ablauf? Dafür gibt es Skills.",
+   "bullets": [
+    {
+     "text": "Immer derselbe Ablauf?",
+     "at": "Ablauf"
+    },
+    {
+     "text": "Die Lösung: Skills",
+     "at": "Skills"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "laptop",
+    "zeigen2",
+    "handy"
+   ],
+   "title": "So ist ein Skill aufgebaut",
+   "text": "Ein Skill ist ein Ordner mit einer Anleitungsdatei. Darin stehen Name, Beschreibung und die Schritte für eine Aufgabe.",
+   "bullets": [
+    {
+     "text": "Ordner mit SKILL.md",
+     "at": "Ordner"
+    },
+    {
+     "text": "Name & Beschreibung",
+     "at": "Name"
+    },
+    {
+     "text": "Anleitung für die Aufgabe",
+     "at": "Schritte"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "zeigen2",
+    "laptop"
+   ],
+   "title": "Claude lädt ihn selbst",
+   "text": "Claude liest die Beschreibung und lädt den Skill selbst, wenn er zu deiner Anfrage passt.",
+   "bullets": [
+    {
+     "text": "Claude erkennt den Skill",
+     "at": "liest"
+    },
+    {
+     "text": "Lädt ihn automatisch",
+     "at": "lädt"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "laptop",
+    "handy",
+    "zeigen2"
+   ],
+   "title": "Beispiel: Newsletter",
+   "text": "Zum Beispiel für deinen wöchentlichen Newsletter. Aufbau und Ton hältst du einmal im Skill fest. Fertige Skills gibt es auch für Word, Excel, PowerPoint und PDF.",
+   "bullets": [
+    {
+     "text": "Aufbau & Ton einmal festhalten",
+     "at": "Aufbau"
+    },
+    {
+     "text": "Fertig: Word, Excel, PowerPoint, PDF",
+     "at": "Word"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "zeigen2",
+    "arme2"
+   ],
+   "title": "Link in meiner Bio",
+   "text": "Eigene Skills sind je nach Tarif verfügbar, bitte im eigenen Konto prüfen. Wie du mit Claude startest, findest du über den Link in meiner Bio.",
+   "bullets": [
+    {
+     "text": "Je nach Tarif prüfen",
+     "at": "Tarif"
+    },
+    {
+     "text": "Link in meiner Bio",
+     "at": "Link"
+    }
+   ]
+  }
+ ]
+}

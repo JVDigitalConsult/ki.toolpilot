@@ -1,0 +1,17 @@
+{
+  "id": "funnelcockpit-was-ist",
+  "topic": "funnelcockpit",
+  "partner": true,
+  "scenes": [
+    {"poses": ["arme", "stehen"], "title": "Was ist FunnelCockpit?", "text": "Keine eigene Website? Brauchst du auch nicht, um E-Mail-Kontakte zu sammeln.",
+     "bullets": [{"text": "Keine Website nötig", "at": "Brauchst"}, {"text": "E-Mail-Kontakte sammeln", "at": "E-Mail-Kontakte"}]},
+    {"poses": ["tablet", "zeigen", "stehen"], "title": "Alles an einem Ort", "text": "FunnelCockpit ist eine deutschsprachige All-in-one-Plattform für Funnels, Landingpages und E-Mail-Marketing.",
+     "bullets": [{"text": "Funnels", "at": "Funnels"}, {"text": "Landingpages", "at": "Landingpages"}, {"text": "E-Mail-Marketing", "at": "E-Mail-Marketing"}]},
+    {"poses": ["tablet", "zeigen", "daumen"], "title": "Drag-and-drop", "text": "Deine Eintragungsseite baust du per Drag-and-drop mit Vorlagen. Ganz ohne Programmieren.",
+     "bullets": [{"text": "Eintragungsseite bauen", "at": "Eintragungsseite"}, {"text": "Mit fertigen Vorlagen", "at": "Vorlagen"}, {"text": "Ohne Programmieren", "at": "Programmieren"}]},
+    {"poses": ["tablet", "zeigen", "arme"], "title": "Deine eigene Liste", "text": "Die Kontakte landen in deiner eigenen E-Mail-Liste. Die gehört dir, unabhängig vom Instagram-Algorithmus.",
+     "bullets": [{"text": "Kontakte in deiner Liste", "at": "Kontakte"}, {"text": "Die gehört dir", "at": "gehört"}, {"text": "Unabhängig vom Algorithmus", "at": "unabhängig"}]},
+    {"poses": ["zeigen", "daumen", "winken"], "title": "Link in meiner Bio", "text": "Es gibt die Tarife Lite, Standard und Business. Für den Start reicht meist Lite oder Standard. Den Link findest du in meiner Bio.",
+     "bullets": [{"text": "Lite · Standard · Business", "at": "Lite"}, {"text": "Start: Lite oder Standard", "at": "Start"}, {"text": "Link in meiner Bio", "at": "Link"}]}
+  ]
+}

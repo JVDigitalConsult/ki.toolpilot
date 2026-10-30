@@ -1,0 +1,107 @@
+{
+ "id": "metricool-beste-zeit",
+ "topic": "metricool",
+ "partner": true,
+ "scenes": [
+  {
+   "poses": [
+    "arme",
+    "zeigen"
+   ],
+   "title": "Wann posten?",
+   "text": "Postest du noch nach Bauchgefühl? Dann schau dir die Heatmap in Metricool an.",
+   "bullets": [
+    {
+     "text": "Schluss mit Bauchgefühl",
+     "at": "Bauchgefühl"
+    },
+    {
+     "text": "Die Heatmap in Metricool",
+     "at": "Heatmap"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "tablet",
+    "zeigen",
+    "daumen"
+   ],
+   "title": "So findest du sie",
+   "text": "In der Planung findest du oben rechts den Button Best times. Du wählst ein Netzwerk und siehst Wochentage und Uhrzeiten.",
+   "bullets": [
+    {
+     "text": "Planung → Best times",
+     "at": "Button"
+    },
+    {
+     "text": "Netzwerk wählen",
+     "at": "wählst"
+    },
+    {
+     "text": "Wochentage × Uhrzeiten",
+     "at": "Wochentage"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "zeigen",
+    "tablet"
+   ],
+   "title": "Je dunkler, desto besser",
+   "text": "Je dunkler ein Feld, desto besser lief es dort.",
+   "bullets": [
+    {
+     "text": "Dunkles Feld = gute Zeit",
+     "at": "dunkler"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "tablet",
+    "arme",
+    "zeigen"
+   ],
+   "title": "Gut zu wissen",
+   "text": "Bei Instagram kommen die Daten von Meta, wenn dein Konto mit einer Facebook-Seite verbunden ist und du mindestens hundert Follower hast. Sonst zeigt Metricool Schätzwerte.",
+   "bullets": [
+    {
+     "text": "Daten von Meta",
+     "at": "Meta"
+    },
+    {
+     "text": "Facebook-Seite & 100 Follower",
+     "at": "hundert"
+    },
+    {
+     "text": "Sonst Schätzwerte",
+     "at": "Schätzwerte"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "daumen",
+    "zeigen"
+   ],
+   "title": "Link in meiner Bio",
+   "text": "So planst du passend zu deiner Community. Je nach Tarif, bitte im eigenen Konto prüfen. Mehr zu meinem Setup findest du über den Link in meiner Bio.",
+   "bullets": [
+    {
+     "text": "Passend zu deiner Community",
+     "at": "Community"
+    },
+    {
+     "text": "Je nach Tarif prüfen",
+     "at": "Tarif"
+    },
+    {
+     "text": "Link in meiner Bio",
+     "at": "Link"
+    }
+   ]
+  }
+ ]
+}

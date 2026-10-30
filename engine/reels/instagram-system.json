@@ -1,0 +1,80 @@
+{
+ "id": "instagram-system",
+ "topic": "kombi",
+ "partner": true,
+ "scenes": [
+  {
+   "poses": [
+    "winken",
+    "stehen"
+   ],
+   "title": "Dein Instagram braucht ein System",
+   "text": "Dein Instagram braucht ein System, kein Bauchgefühl.",
+   "bullets": [
+    {
+     "text": "System statt Bauchgefühl",
+     "at": "System"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "arme",
+    "zeigen"
+   ],
+   "title": "Reichweite allein reicht nicht",
+   "text": "Reichweite allein bringt dir nichts, wenn du nicht weißt, was ankommt und wohin deine Follower danach gehen.",
+   "bullets": [
+    {
+     "text": "Was kommt wirklich an?",
+     "at": "ankommt"
+    },
+    {
+     "text": "Wohin gehen deine Follower?",
+     "at": "Follower"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "tablet",
+    "zeigen",
+    "daumen"
+   ],
+   "title": "Zwei Tools, ein System",
+   "text": "Ich nutze dafür zwei Tools, die sich gut ergänzen. Metricool zum Planen und Auswerten. Und FunnelCockpit für deine Eintragungsseite, ohne eigene Website.",
+   "bullets": [
+    {
+     "text": "Metricool: planen & auswerten",
+     "at": "Metricool"
+    },
+    {
+     "text": "FunnelCockpit: Eintragungsseite",
+     "at": "FunnelCockpit"
+    },
+    {
+     "text": "Ohne eigene Website",
+     "at": "Website"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "zeigen",
+    "winken"
+   ],
+   "title": "Link in meiner Bio",
+   "text": "In den nächsten Reels zeige ich dir beide Schritt für Schritt. Folge mir und hol dir alle Infos über den Link in meiner Bio.",
+   "bullets": [
+    {
+     "text": "Beide Tools Schritt für Schritt",
+     "at": "Schritt"
+    },
+    {
+     "text": "Folgen & Link in der Bio",
+     "at": "Folge"
+    }
+   ]
+  }
+ ]
+}

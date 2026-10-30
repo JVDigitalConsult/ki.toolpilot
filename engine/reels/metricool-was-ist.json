@@ -1,0 +1,17 @@
+{
+  "id": "metricool-was-ist",
+  "topic": "metricool",
+  "partner": true,
+  "scenes": [
+    {"poses": ["handy", "arme2"], "title": "Was ist Metricool?", "text": "Du postest spontan und vergisst die Hälfte? Dann schau dir Metricool an.",
+     "bullets": [{"text": "Spontan posten?", "at": "spontan"}, {"text": "Die Lösung: Metricool", "at": "Metricool"}]},
+    {"poses": ["laptop", "handy", "zeigen2"], "title": "Planen. Auswerten. Bündeln.", "text": "Metricool plant deine Beiträge vor, wertet sie aus und bündelt mehrere Social-Media-Konten an einem Ort.",
+     "bullets": [{"text": "Beiträge vorplanen", "at": "plant"}, {"text": "Ergebnisse auswerten", "at": "wertet"}, {"text": "Alle Konten an einem Ort", "at": "bündelt"}]},
+    {"poses": ["handy", "zeigen2", "laptop"], "title": "Kalender statt Chaos", "text": "Du legst Datum und Uhrzeit im Kalender fest, und dein Beitrag geht automatisch raus. Perfekt für einen festen Rhythmus.",
+     "bullets": [{"text": "Datum und Uhrzeit festlegen", "at": "Datum"}, {"text": "Geht automatisch raus", "at": "automatisch"}, {"text": "Fester Posting-Rhythmus", "at": "Rhythmus"}]},
+    {"poses": ["zeigen2", "laptop", "arme2"], "title": "Die Tarife", "text": "Zum Start gibt es einen kostenlosen Tarif. Mehr Funktionen bieten Starter und Advanced. Je nach Tarif, bitte im eigenen Konto prüfen.",
+     "bullets": [{"text": "Free: kostenlos starten", "at": "kostenlosen"}, {"text": "Mehr in Starter & Advanced", "at": "Starter"}, {"text": "Im eigenen Konto prüfen", "at": "prüfen"}]},
+    {"poses": ["handy", "zeigen2"], "title": "Link in meiner Bio", "text": "Den Link zu Metricool findest du in meiner Bio.",
+     "bullets": [{"text": "Link zu Metricool in der Bio", "at": "Link"}]}
+  ]
+}

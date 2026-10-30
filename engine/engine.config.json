@@ -1,0 +1,10 @@
+{
+  "brand": "KI ToolPilot",
+  "voice": {
+    "name": "Jessica",
+    "id": "cgSgspJ2msm6clMCkdW9"
+  },
+  "ttsModel": "eleven_multilingual_v2",
+  "language": "de",
+  "voiceSpeed": 1.15
+}

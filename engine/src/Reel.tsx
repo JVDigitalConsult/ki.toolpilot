@@ -61,10 +61,7 @@ const Background: React.FC<{scene?: string | null}> = ({scene}) => {
 
 const Header: React.FC<{brand: string; partner: boolean}> = ({brand, partner}) => (
   <div style={{position: 'absolute', top: 110, left: 70, right: 70, fontFamily: FONT}}>
-    <div style={{display: 'flex', justifyContent: 'space-between', alignItems: 'baseline'}}>
-      <span style={{color: C.fg, fontWeight: 800, fontSize: 44}}>{brand}</span>
-      <span style={{color: C.muted, fontSize: 28, fontWeight: 500}}>AI generated</span>
-    </div>
+    <div style={{color: C.fg, fontWeight: 800, fontSize: 44}}>{brand}</div>
     {partner && <div style={{color: C.muted, fontSize: 28, fontWeight: 500, marginTop: 8}}>Werbung | Partner-Links</div>}
   </div>
 );

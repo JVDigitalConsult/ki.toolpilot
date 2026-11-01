@@ -8,16 +8,16 @@
     "arme",
     "zeigen"
    ],
-   "title": "Wann posten?",
-   "text": "Postest du noch nach Bauchgefühl? Dann schau dir die Heatmap in Metricool an.",
+   "title": "Falsche Uhrzeit, wenig Reichweite?",
+   "text": "Du postest, wann es dir passt, und wunderst dich über wenig Reichweite?",
    "bullets": [
     {
-     "text": "Schluss mit Bauchgefühl",
-     "at": "Bauchgefühl"
+     "text": "Posten, wann's passt?",
+     "at": "passt"
     },
     {
-     "text": "Die Heatmap in Metricool",
-     "at": "Heatmap"
+     "text": "Wenig Reichweite?",
+     "at": "Reichweite"
     }
    ]
   },
@@ -27,8 +27,8 @@
     "zeigen",
     "daumen"
    ],
-   "title": "So findest du sie",
-   "text": "In der Planung findest du oben rechts den Button Best times. Du wählst ein Netzwerk und siehst Wochentage und Uhrzeiten.",
+   "title": "Die Heatmap hilft",
+   "text": "In Metricool findest du in der Planung oben rechts den Button Best times. Netzwerk wählen, und du siehst Wochentage und Uhrzeiten.",
    "bullets": [
     {
      "text": "Planung → Best times",
@@ -36,7 +36,7 @@
     },
     {
      "text": "Netzwerk wählen",
-     "at": "wählst"
+     "at": "Netzwerk"
     },
     {
      "text": "Wochentage × Uhrzeiten",
@@ -50,7 +50,7 @@
     "tablet"
    ],
    "title": "Je dunkler, desto besser",
-   "text": "Je dunkler ein Feld, desto besser lief es dort.",
+   "text": "Je dunkler ein Feld, desto besser lief es dort bei deiner Community.",
    "bullets": [
     {
      "text": "Dunkles Feld = gute Zeit",
@@ -65,7 +65,7 @@
     "zeigen"
    ],
    "title": "Gut zu wissen",
-   "text": "Bei Instagram kommen die Daten von Meta, wenn dein Konto mit einer Facebook-Seite verbunden ist und du mindestens hundert Follower hast. Sonst zeigt Metricool Schätzwerte.",
+   "text": "Echte Daten von Meta gibt es, wenn dein Konto mit einer Facebook-Seite verbunden ist und du mindestens hundert Follower hast. Sonst zeigt Metricool Schätzwerte.",
    "bullets": [
     {
      "text": "Daten von Meta",
@@ -86,12 +86,12 @@
     "daumen",
     "zeigen"
    ],
-   "title": "Link in meiner Bio",
-   "text": "So planst du passend zu deiner Community. Je nach Tarif, bitte im eigenen Konto prüfen. Mehr zu meinem Setup findest du über den Link in meiner Bio.",
+   "title": "Und du?",
+   "text": "Wann postest du am liebsten, morgens oder abends? Schreib's in die Kommentare. Je nach Tarif, bitte im eigenen Konto prüfen. Mehr über den Link in meiner Bio.",
    "bullets": [
     {
-     "text": "Passend zu deiner Community",
-     "at": "Community"
+     "text": "Morgens oder abends?",
+     "at": "morgens"
     },
     {
      "text": "Je nach Tarif prüfen",

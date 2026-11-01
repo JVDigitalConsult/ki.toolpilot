@@ -8,16 +8,16 @@
     "arme2",
     "zeigen2"
    ],
-   "title": "Was sind Skills?",
-   "text": "Du erklärst Claude immer wieder denselben Ablauf? Dafür gibt es Skills.",
+   "title": "Erklärst du alles doppelt?",
+   "text": "Du erklärst Claude jede Woche dieselbe Aufgabe neu? Das kannst du dir sparen.",
    "bullets": [
     {
-     "text": "Immer derselbe Ablauf?",
-     "at": "Ablauf"
+     "text": "Jede Woche dasselbe?",
+     "at": "Woche"
     },
     {
-     "text": "Die Lösung: Skills",
-     "at": "Skills"
+     "text": "Das geht einfacher",
+     "at": "sparen"
     }
    ]
   },
@@ -27,8 +27,8 @@
     "zeigen2",
     "handy"
    ],
-   "title": "So ist ein Skill aufgebaut",
-   "text": "Ein Skill ist ein Ordner mit einer Anleitungsdatei. Darin stehen Name, Beschreibung und die Schritte für eine Aufgabe.",
+   "title": "Skills: einmal erklären",
+   "text": "Mit einem Skill hältst du die Anleitung einmal fest: in einem Ordner mit Name, Beschreibung und deinen Schritten.",
    "bullets": [
     {
      "text": "Ordner mit SKILL.md",
@@ -39,8 +39,8 @@
      "at": "Name"
     },
     {
-     "text": "Anleitung für die Aufgabe",
-     "at": "Schritte"
+     "text": "Deine Schritte",
+     "at": "Schritten"
     }
    ]
   },
@@ -50,10 +50,10 @@
     "laptop"
    ],
    "title": "Claude lädt ihn selbst",
-   "text": "Claude liest die Beschreibung und lädt den Skill selbst, wenn er zu deiner Anfrage passt.",
+   "text": "Claude liest die Beschreibung und lädt den Skill selbst, sobald er zu deiner Anfrage passt.",
    "bullets": [
     {
-     "text": "Claude erkennt den Skill",
+     "text": "Erkennt den passenden Skill",
      "at": "liest"
     },
     {
@@ -64,19 +64,23 @@
   },
   {
    "poses": [
-    "laptop",
     "handy",
+    "laptop",
     "zeigen2"
    ],
-   "title": "Beispiel: Newsletter",
-   "text": "Zum Beispiel für deinen wöchentlichen Newsletter. Aufbau und Ton hältst du einmal im Skill fest. Fertige Skills gibt es auch für Word, Excel, PowerPoint und PDF.",
+   "title": "Vorher / Nachher",
+   "text": "Vorher: jeden Montag Aufbau und Ton für den Newsletter neu erklären. Nachher: ein Satz reicht. Fertige Skills gibt es auch für Word, Excel, PowerPoint und PDF.",
    "bullets": [
     {
-     "text": "Aufbau & Ton einmal festhalten",
-     "at": "Aufbau"
+     "text": "Vorher: alles neu erklären",
+     "at": "Vorher"
     },
     {
-     "text": "Fertig: Word, Excel, PowerPoint, PDF",
+     "text": "Nachher: ein Satz reicht",
+     "at": "Nachher"
+    },
+    {
+     "text": "Fertig: Word, Excel, PDF",
      "at": "Word"
     }
    ]
@@ -86,9 +90,13 @@
     "zeigen2",
     "arme2"
    ],
-   "title": "Link in meiner Bio",
-   "text": "Eigene Skills sind je nach Tarif verfügbar, bitte im eigenen Konto prüfen. Wie du mit Claude startest, findest du über den Link in meiner Bio.",
+   "title": "Und du?",
+   "text": "Welche Aufgabe würdest du als Erstes zum Skill machen? Schreib's in die Kommentare. Eigene Skills gibt es je nach Tarif, bitte im eigenen Konto prüfen. Link in meiner Bio.",
    "bullets": [
+    {
+     "text": "Deine erste Skill-Idee?",
+     "at": "Aufgabe"
+    },
     {
      "text": "Je nach Tarif prüfen",
      "at": "Tarif"

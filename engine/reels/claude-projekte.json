@@ -8,16 +8,16 @@
     "arme2",
     "zeigen2"
    ],
-   "title": "Nie wieder bei null starten",
-   "text": "Du erklärst Claude in jedem Chat wieder, wer deine Kunden sind? Das geht einfacher.",
+   "title": "Jedes Mal von vorn?",
+   "text": "Du erklärst Claude in jedem Chat wieder, wer deine Kunden sind? Stopp.",
    "bullets": [
     {
-     "text": "Jedes Mal alles neu erklären?",
+     "text": "Jedes Mal alles neu?",
      "at": "jedem"
     },
     {
-     "text": "Das geht einfacher",
-     "at": "einfacher"
+     "text": "Stopp",
+     "at": "Stopp"
     }
    ]
   },
@@ -28,7 +28,7 @@
     "handy"
    ],
    "title": "Kontext macht den Unterschied",
-   "text": "Je mehr passender Hintergrund Claude hat, etwa Zielgruppe, Ton und Ziel, desto besser wird das Ergebnis.",
+   "text": "Je mehr passender Hintergrund, etwa Zielgruppe, Ton und Ziel, desto besser das Ergebnis.",
    "bullets": [
     {
      "text": "Zielgruppe",
@@ -49,16 +49,16 @@
     "zeigen2",
     "laptop"
    ],
-   "title": "Projekte in Claude",
-   "text": "In Projekten hinterlegst du Anweisungen und Wissen einmal. So musst du nicht in jedem Chat von vorn beginnen.",
+   "title": "Projekte merken sich das",
+   "text": "In Projekten hinterlegst du Anweisungen und Wissen einmal. Jeder neue Chat dort startet mit diesem Wissen.",
    "bullets": [
     {
-     "text": "Anweisungen & Wissen ablegen",
-     "at": "Anweisungen"
+     "text": "Einmal hinterlegen",
+     "at": "hinterlegst"
     },
     {
-     "text": "Nicht mehr von vorn beginnen",
-     "at": "vorn"
+     "text": "Jeder Chat kennt es",
+     "at": "Jeder"
     }
    ]
   },
@@ -68,8 +68,8 @@
     "laptop",
     "zeigen2"
    ],
-   "title": "Beispiel: Fotografin",
-   "text": "Zum Beispiel als Fotografin: Du notierst einmal, wen du ansprichst und wie du klingst, und startest deine Chats im Projekt.",
+   "title": "POV: Du bist Fotografin",
+   "text": "Du notierst einmal, wen du ansprichst und wie du klingst, und deine Texte klingen näher nach dir.",
    "bullets": [
     {
      "text": "Zielgruppe notieren",
@@ -80,8 +80,8 @@
      "at": "klingst"
     },
     {
-     "text": "Chats im Projekt starten",
-     "at": "startest"
+     "text": "Texte klingen nach dir",
+     "at": "Texte"
     }
    ]
   },
@@ -90,12 +90,12 @@
     "arme2",
     "zeigen2"
    ],
-   "title": "Link in meiner Bio",
-   "text": "Lies die Ergebnisse trotzdem immer kurz gegen. Wie du den Einstieg machst, findest du über den Link in meiner Bio.",
+   "title": "Und du?",
+   "text": "Was würdest du Claude als Erstes über dein Business erklären? Schreib's in die Kommentare. Den Einstieg findest du über den Link in meiner Bio.",
    "bullets": [
     {
-     "text": "Ergebnisse gegenlesen",
-     "at": "Lies"
+     "text": "Was erklärst du zuerst?",
+     "at": "Erstes"
     },
     {
      "text": "Link in meiner Bio",

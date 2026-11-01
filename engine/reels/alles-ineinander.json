@@ -8,16 +8,16 @@
     "stehen",
     "zeigen"
    ],
-   "title": "So greift alles ineinander",
-   "text": "So wird aus Reichweite eine Liste, die dir gehört. In drei Schritten.",
+   "title": "Reichweite allein bringt nichts",
+   "text": "Tausend Views und trotzdem keine Anfragen? Dann fehlt dir dieser Weg.",
    "bullets": [
     {
-     "text": "Reichweite wird zur Liste",
-     "at": "Liste"
+     "text": "Views, aber keine Anfragen?",
+     "at": "Anfragen"
     },
     {
-     "text": "In 3 Schritten",
-     "at": "drei"
+     "text": "Es fehlt ein System",
+     "at": "fehlt"
     }
    ]
   },
@@ -27,10 +27,10 @@
     "zeigen"
    ],
    "title": "Schritt 1: Planen",
-   "text": "Erstens: Du planst deinen Beitrag mit Metricool.",
+   "text": "Erstens: Du planst deine Beiträge mit Metricool.",
    "bullets": [
     {
-     "text": "Beitrag mit Metricool planen",
+     "text": "Beiträge mit Metricool planen",
      "at": "planst"
     }
    ]
@@ -44,7 +44,7 @@
    "text": "Zweitens: Deine Follower öffnen den Link in deiner Bio.",
    "bullets": [
     {
-     "text": "Follower öffnen den Link",
+     "text": "Follower klicken den Link",
      "at": "öffnen"
     }
    ]
@@ -55,15 +55,15 @@
     "tablet"
    ],
    "title": "Schritt 3: Eintragen",
-   "text": "Drittens: Sie tragen sich auf deiner FunnelCockpit-Seite ein. Und schon wächst deine eigene E-Mail-Liste.",
+   "text": "Drittens: Sie tragen sich auf deiner FunnelCockpit-Seite ein. So wird aus Reichweite eine Liste, die dir gehört.",
    "bullets": [
     {
      "text": "Eintragung über FunnelCockpit",
      "at": "tragen"
     },
     {
-     "text": "Deine eigene E-Mail-Liste",
-     "at": "wächst"
+     "text": "Deine eigene Liste",
+     "at": "gehört"
     }
    ]
   },
@@ -72,9 +72,17 @@
     "zeigen",
     "winken"
    ],
-   "title": "Link in meiner Bio",
-   "text": "Alle Infos zu beiden Tools findest du über den Link in meiner Bio.",
+   "title": "Speicher dir das",
+   "text": "Speicher dir diesen Weg für später. Welcher Schritt fehlt dir noch? Schreib's in die Kommentare. Alle Infos über den Link in meiner Bio.",
    "bullets": [
+    {
+     "text": "Weg speichern",
+     "at": "Speicher"
+    },
+    {
+     "text": "Welcher Schritt fehlt?",
+     "at": "Schritt"
+    },
     {
      "text": "Link in meiner Bio",
      "at": "Link"

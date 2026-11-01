@@ -8,16 +8,16 @@
     "arme2",
     "zeigen2"
    ],
-   "title": "Was ist ein Prompt?",
-   "text": "Das Ergebnis passt nicht? Dann liegt es oft an der Eingabe.",
+   "title": "Claude liefert nur Mittelmaß?",
+   "text": "Claude liefert dir nur Mittelmaß? Dann liegt es oft an deinem Prompt.",
    "bullets": [
     {
-     "text": "Ergebnis passt nicht?",
-     "at": "Ergebnis"
+     "text": "Nur mittelmäßige Antworten?",
+     "at": "Mittelmaß"
     },
     {
-     "text": "Oft liegt es an der Eingabe",
-     "at": "Eingabe"
+     "text": "Oft liegt's am Prompt",
+     "at": "Prompt"
     }
    ]
   },
@@ -27,24 +27,20 @@
     "zeigen2",
     "handy"
    ],
-   "title": "Das gehört rein",
-   "text": "Ein Prompt ist alles, was du Claude schreibst: Frage, Aufgabe, Hintergrund und bei Bedarf Beispiele.",
+   "title": "3 typische Prompt-Fehler",
+   "text": "Erstens: kein Zweck. Zweitens: kein Format. Drittens: nur sagen, was Claude nicht tun soll.",
    "bullets": [
     {
-     "text": "Frage",
-     "at": "Frage"
+     "text": "Kein Zweck",
+     "at": "Erstens"
     },
     {
-     "text": "Aufgabe",
-     "at": "Aufgabe"
+     "text": "Kein Format",
+     "at": "Zweitens"
     },
     {
-     "text": "Hintergrund",
-     "at": "Hintergrund"
-    },
-    {
-     "text": "Beispiele",
-     "at": "Beispiele"
+     "text": "Nur Verbote",
+     "at": "Drittens"
     }
    ]
   },
@@ -54,8 +50,8 @@
     "laptop",
     "handy"
    ],
-   "title": "3 Tipps, die sofort helfen",
-   "text": "Drei Dinge helfen sofort. Nenne den Zweck. Lege das Format fest, zum Beispiel kurze Absätze. Und sag positiv, was du willst, statt nur zu verbieten.",
+   "title": "Die bessere Formel",
+   "text": "Besser: Nenne den Zweck, lege das Format fest und sag positiv, was du willst. Zum Beispiel: Schreib eine freundliche Mail an einen Kunden, in drei kurzen Absätzen.",
    "bullets": [
     {
      "text": "Zweck nennen",
@@ -77,7 +73,7 @@
     "zeigen2"
    ],
    "title": "Der Kollegen-Test",
-   "text": "Prüf-Frage: Würde ein Kollege ohne Vorwissen deinen Prompt verstehen? Dann versteht ihn meist auch Claude.",
+   "text": "Und der Test: Würde ein Kollege ohne Vorwissen deinen Prompt verstehen? Dann versteht ihn meist auch Claude.",
    "bullets": [
     {
      "text": "Versteht es ein Kollege?",
@@ -94,12 +90,16 @@
     "handy",
     "zeigen2"
    ],
-   "title": "Link in meiner Bio",
-   "text": "Probier es heute bei einer kleinen Aufgabe aus. Mehr Hilfe zum Einstieg findest du über den Link in meiner Bio.",
+   "title": "Speichern & ausprobieren",
+   "text": "Speicher dir die Formel für deinen nächsten Prompt. Welchen Fehler machst du am häufigsten? Schreib's in die Kommentare. Mehr Tipps über den Link in meiner Bio.",
    "bullets": [
     {
-     "text": "Heute ausprobieren",
-     "at": "Probier"
+     "text": "Formel speichern",
+     "at": "Speicher"
+    },
+    {
+     "text": "Dein häufigster Fehler?",
+     "at": "Fehler"
     },
     {
      "text": "Link in meiner Bio",

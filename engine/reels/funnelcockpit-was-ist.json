@@ -1,17 +1,106 @@
 {
-  "id": "funnelcockpit-was-ist",
-  "topic": "funnelcockpit",
-  "partner": true,
-  "scenes": [
-    {"poses": ["arme", "stehen"], "title": "Was ist FunnelCockpit?", "text": "Keine eigene Website? Brauchst du auch nicht, um E-Mail-Kontakte zu sammeln.",
-     "bullets": [{"text": "Keine Website nötig", "at": "Brauchst"}, {"text": "E-Mail-Kontakte sammeln", "at": "E-Mail-Kontakte"}]},
-    {"poses": ["tablet", "zeigen", "stehen"], "title": "Alles an einem Ort", "text": "FunnelCockpit ist eine deutschsprachige All-in-one-Plattform für Funnels, Landingpages und E-Mail-Marketing.",
-     "bullets": [{"text": "Funnels", "at": "Funnels"}, {"text": "Landingpages", "at": "Landingpages"}, {"text": "E-Mail-Marketing", "at": "E-Mail-Marketing"}]},
-    {"poses": ["tablet", "zeigen", "daumen"], "title": "Drag-and-drop", "text": "Deine Eintragungsseite baust du per Drag-and-drop mit Vorlagen. Ganz ohne Programmieren.",
-     "bullets": [{"text": "Eintragungsseite bauen", "at": "Eintragungsseite"}, {"text": "Mit fertigen Vorlagen", "at": "Vorlagen"}, {"text": "Ohne Programmieren", "at": "Programmieren"}]},
-    {"poses": ["tablet", "zeigen", "arme"], "title": "Deine eigene Liste", "text": "Die Kontakte landen in deiner eigenen E-Mail-Liste. Die gehört dir, unabhängig vom Instagram-Algorithmus.",
-     "bullets": [{"text": "Kontakte in deiner Liste", "at": "Kontakte"}, {"text": "Die gehört dir", "at": "gehört"}, {"text": "Unabhängig vom Algorithmus", "at": "unabhängig"}]},
-    {"poses": ["zeigen", "daumen", "winken"], "title": "Link in meiner Bio", "text": "Es gibt die Tarife Lite, Standard und Business. Für den Start reicht meist Lite oder Standard. Den Link findest du in meiner Bio.",
-     "bullets": [{"text": "Lite · Standard · Business", "at": "Lite"}, {"text": "Start: Lite oder Standard", "at": "Start"}, {"text": "Link in meiner Bio", "at": "Link"}]}
-  ]
+ "id": "funnelcockpit-was-ist",
+ "topic": "funnelcockpit",
+ "partner": true,
+ "scenes": [
+  {
+   "poses": [
+    "arme",
+    "zeigen"
+   ],
+   "title": "Keine Website? Kein Problem.",
+   "text": "Du denkst, du brauchst erst eine Website, um E-Mail-Kontakte zu sammeln? Brauchst du nicht.",
+   "bullets": [
+    {
+     "text": "Erst eine Website bauen?",
+     "at": "Website"
+    },
+    {
+     "text": "Brauchst du nicht",
+     "at": "Brauchst"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "tablet",
+    "zeigen",
+    "stehen"
+   ],
+   "title": "Eine Seite reicht",
+   "text": "Mit FunnelCockpit baust du eine Eintragungsseite per Drag-and-drop mit Vorlagen. Ganz ohne Programmieren.",
+   "bullets": [
+    {
+     "text": "Eintragungsseite",
+     "at": "Eintragungsseite"
+    },
+    {
+     "text": "Fertige Vorlagen",
+     "at": "Vorlagen"
+    },
+    {
+     "text": "Ohne Programmieren",
+     "at": "Programmieren"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "gehen",
+    "tablet"
+   ],
+   "title": "Follower werden Kontakte",
+   "text": "Aus Followern werden Kontakte in deiner eigenen E-Mail-Liste. Die gehört dir, auch wenn sich der Algorithmus ändert.",
+   "bullets": [
+    {
+     "text": "Eigene E-Mail-Liste",
+     "at": "Kontakte"
+    },
+    {
+     "text": "Die gehört dir",
+     "at": "gehört"
+    },
+    {
+     "text": "Unabhängig vom Algorithmus",
+     "at": "Algorithmus"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "daumen",
+    "zeigen"
+   ],
+   "title": "Welcher Tarif?",
+   "text": "Es gibt Lite, Standard und Business. Für den Start reicht meist Lite oder Standard.",
+   "bullets": [
+    {
+     "text": "Lite · Standard · Business",
+     "at": "Lite"
+    },
+    {
+     "text": "Start: Lite oder Standard",
+     "at": "Start"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "zeigen",
+    "winken"
+   ],
+   "title": "Und du?",
+   "text": "Sammelst du schon E-Mail-Kontakte oder nur Follower? Schreib's in die Kommentare. Den Link findest du in meiner Bio.",
+   "bullets": [
+    {
+     "text": "Kontakte oder nur Follower?",
+     "at": "Sammelst"
+    },
+    {
+     "text": "Link in meiner Bio",
+     "at": "Link"
+    }
+   ]
+  }
+ ]
 }

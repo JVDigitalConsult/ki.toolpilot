@@ -1,17 +1,106 @@
 {
-  "id": "metricool-was-ist",
-  "topic": "metricool",
-  "partner": true,
-  "scenes": [
-    {"poses": ["handy", "arme2"], "title": "Was ist Metricool?", "text": "Du postest spontan und vergisst die Hälfte? Dann schau dir Metricool an.",
-     "bullets": [{"text": "Spontan posten?", "at": "spontan"}, {"text": "Die Lösung: Metricool", "at": "Metricool"}]},
-    {"poses": ["laptop", "handy", "zeigen2"], "title": "Planen. Auswerten. Bündeln.", "text": "Metricool plant deine Beiträge vor, wertet sie aus und bündelt mehrere Social-Media-Konten an einem Ort.",
-     "bullets": [{"text": "Beiträge vorplanen", "at": "plant"}, {"text": "Ergebnisse auswerten", "at": "wertet"}, {"text": "Alle Konten an einem Ort", "at": "bündelt"}]},
-    {"poses": ["handy", "zeigen2", "laptop"], "title": "Kalender statt Chaos", "text": "Du legst Datum und Uhrzeit im Kalender fest, und dein Beitrag geht automatisch raus. Perfekt für einen festen Rhythmus.",
-     "bullets": [{"text": "Datum und Uhrzeit festlegen", "at": "Datum"}, {"text": "Geht automatisch raus", "at": "automatisch"}, {"text": "Fester Posting-Rhythmus", "at": "Rhythmus"}]},
-    {"poses": ["zeigen2", "laptop", "arme2"], "title": "Die Tarife", "text": "Zum Start gibt es einen kostenlosen Tarif. Mehr Funktionen bieten Starter und Advanced. Je nach Tarif, bitte im eigenen Konto prüfen.",
-     "bullets": [{"text": "Free: kostenlos starten", "at": "kostenlosen"}, {"text": "Mehr in Starter & Advanced", "at": "Starter"}, {"text": "Im eigenen Konto prüfen", "at": "prüfen"}]},
-    {"poses": ["handy", "zeigen2"], "title": "Link in meiner Bio", "text": "Den Link zu Metricool findest du in meiner Bio.",
-     "bullets": [{"text": "Link zu Metricool in der Bio", "at": "Link"}]}
-  ]
+ "id": "metricool-was-ist",
+ "topic": "metricool",
+ "partner": true,
+ "scenes": [
+  {
+   "poses": [
+    "arme2",
+    "handy"
+   ],
+   "title": "Posten nach Lust und Laune?",
+   "text": "Es ist zweiundzwanzig Uhr und dir fehlt der Post für morgen?",
+   "bullets": [
+    {
+     "text": "22 Uhr, kein Post für morgen?",
+     "at": "Uhr"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "handy",
+    "laptop",
+    "zeigen2"
+   ],
+   "title": "Hör auf zu improvisieren",
+   "text": "Hör auf, jeden Tag neu zu improvisieren. Mit Metricool planst du deine Beiträge vor, wertest sie aus und hast alle Konten an einem Ort.",
+   "bullets": [
+    {
+     "text": "Beiträge vorplanen",
+     "at": "planst"
+    },
+    {
+     "text": "Ergebnisse auswerten",
+     "at": "wertest"
+    },
+    {
+     "text": "Alle Konten an einem Ort",
+     "at": "Konten"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "zeigen2",
+    "handy"
+   ],
+   "title": "Einmal planen, fertig",
+   "text": "Datum und Uhrzeit im Kalender festlegen, und dein Beitrag geht automatisch raus. Genau so plane ich diesen Kanal.",
+   "bullets": [
+    {
+     "text": "Datum & Uhrzeit wählen",
+     "at": "Datum"
+    },
+    {
+     "text": "Geht automatisch raus",
+     "at": "automatisch"
+    },
+    {
+     "text": "So läuft dieser Kanal",
+     "at": "plane"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "laptop",
+    "zeigen2"
+   ],
+   "title": "Kostenlos starten",
+   "text": "Zum Start reicht der kostenlose Tarif. Mehr Funktionen gibt es in Starter und Advanced. Je nach Tarif, bitte im eigenen Konto prüfen.",
+   "bullets": [
+    {
+     "text": "Free zum Testen",
+     "at": "kostenlose"
+    },
+    {
+     "text": "Mehr in Starter & Advanced",
+     "at": "Starter"
+    }
+   ]
+  },
+  {
+   "poses": [
+    "handy",
+    "zeigen2"
+   ],
+   "title": "Und du?",
+   "text": "Postest du schon geplant oder noch spontan? Schreib's in die Kommentare. Den Link zu Metricool findest du in meiner Bio.",
+   "bullets": [
+    {
+     "text": "Geplant oder spontan?",
+     "at": "Postest"
+    },
+    {
+     "text": "Schreib's in die Kommentare",
+     "at": "Kommentare"
+    },
+    {
+     "text": "Link in meiner Bio",
+     "at": "Link"
+    }
+   ]
+  }
+ ]
 }

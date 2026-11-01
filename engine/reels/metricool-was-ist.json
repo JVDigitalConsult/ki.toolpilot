@@ -102,5 +102,12 @@
     }
    ]
   }
- ]
+ ],
+ "cover": {
+  "title": "Posten ohne Plan?",
+  "highlight": "ohne Plan",
+  "subtitle": "So planst du mit Metricool",
+  "tag": "METRICOOL",
+  "pose": "handy"
+ }
 }

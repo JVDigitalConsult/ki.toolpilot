@@ -102,5 +102,12 @@
     }
    ]
   }
- ]
+ ],
+ "cover": {
+  "title": "E-Mail-Liste ohne Website",
+  "highlight": "ohne Website",
+  "subtitle": "So geht's mit FunnelCockpit",
+  "tag": "FUNNELCOCKPIT",
+  "pose": "tablet"
+ }
 }

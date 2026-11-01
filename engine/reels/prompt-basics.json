@@ -107,5 +107,12 @@
     }
    ]
   }
- ]
+ ],
+ "cover": {
+  "title": "3 Fehler beim Prompten",
+  "highlight": "3",
+  "subtitle": "…und die bessere Formel",
+  "tag": "CLAUDE BASICS",
+  "pose": "zeigen2"
+ }
 }

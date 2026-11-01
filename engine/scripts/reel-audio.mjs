@@ -57,6 +57,6 @@ for (const [i, sc] of reel.scenes.entries()) {
 // Szene: Dateiname in public/scenes (mit Endung) oder null für den CI-Verlauf
 const sceneFile = reel.scene ? fs.readdirSync('public/scenes').find((f) => path.parse(f).name === reel.scene) : null;
 if (reel.scene && !sceneFile) throw new Error(`Szene "${reel.scene}" nicht in public/scenes gefunden`);
-const props = {brand: config.brand, partner: reel.partner, scene: sceneFile ?? null, scenes};
+const props = {brand: config.brand, partner: reel.partner, scene: sceneFile ?? null, cover: reel.cover ?? null, scenes};
 fs.writeFileSync(path.join(dir, 'props.json'), JSON.stringify(props, null, 2));
 console.log(`Gesamt ${(offset / 1000).toFixed(1)} s -> ${dir}/props.json`);

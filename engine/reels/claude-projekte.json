@@ -103,5 +103,12 @@
     }
    ]
   }
- ]
+ ],
+ "cover": {
+  "title": "Nie wieder bei null starten",
+  "highlight": "null",
+  "subtitle": "Projekte in Claude",
+  "tag": "CLAUDE BASICS",
+  "pose": "laptop"
+ }
 }

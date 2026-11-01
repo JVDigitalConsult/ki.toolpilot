@@ -89,5 +89,12 @@
     }
    ]
   }
- ]
+ ],
+ "cover": {
+  "title": "Aus Reichweite wird eine Liste",
+  "highlight": "Liste",
+  "subtitle": "Das System in 3 Schritten",
+  "tag": "SYSTEM",
+  "pose": "zeigen"
+ }
 }

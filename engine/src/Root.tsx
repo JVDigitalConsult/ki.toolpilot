@@ -1,6 +1,7 @@
 import {Composition} from 'remotion';
 import {HelloWorld} from './HelloWorld';
 import {Reel, ReelProps, reelDuration} from './Reel';
+import {Cover} from './Cover';
 
 // Platzhalter für die Studio-Vorschau; echte Props kommen per --props aus scripts/reel-audio.mjs
 const demo: ReelProps = {
@@ -35,5 +36,7 @@ export const Root: React.FC = () => (
       height={1920}
       defaultProps={demo}
     />
+    {/* Startbild des Reels (als Standbild rendern) */}
+    <Composition id="Cover" component={Cover} durationInFrames={1} fps={30} width={1080} height={1920} defaultProps={demo} />
   </>
 );

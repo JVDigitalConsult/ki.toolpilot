@@ -28,6 +28,7 @@ Benötigt die Umgebungsvariable `ELEVENLABS_API_KEY` und Netzwerkzugriff auf
   "topic": "claude | metricool | funnelcockpit | kombi",
   "partner": false,
   "scene": null,
+  "cover": {"title": "Claude kurz erklärt", "highlight": "Claude", "subtitle": "Dein KI-Assistent in 30 Sekunden", "tag": "CLAUDE BASICS", "pose": "laptop"},
   "scenes": [
     {
       "poses": ["laptop", "zeigen2"],
@@ -45,6 +46,7 @@ Benötigt die Umgebungsvariable `ELEVENLABS_API_KEY` und Netzwerkzugriff auf
   Bei jedem weiteren Stichpunkt wechselt der Avatar seine Geste (nächste Pose aus `poses`).
 - **poses**: nur Posen **eines** Outfits pro Reel (siehe `avatars.json`), passend zum Inhalt.
 - **partner**: `true` bei Metricool/FunnelCockpit → Einblendung „Werbung | Partner-Links“.
+- **cover**: Startbild des Reels. `title` 2–6 Wörter mit dem Kernthema bzw. Nutzen (groß, auch im Profil-Raster lesbar), `highlight` = Teil des Titels in Cyan, `subtitle` max. ca. 35 Zeichen, `tag` = Themenreihe in Großbuchstaben (CLAUDE BASICS, METRICOOL, FUNNELCOCKPIT, SYSTEM, KI-TOOLS), `pose` passend zum Outfit des Reels. Wird als `reels/<datum>-<id>-cover.jpg` erzeugt und in Metricool als `videoThumbnailUrl` übergeben.
 - **scene** (optional): Name eines Hintergrundbilds aus `public/scenes/` ohne Endung, sonst CI-Verlauf.
 
 ## Avatar und Szenen erweitern

@@ -107,5 +107,12 @@
     }
    ]
   }
- ]
+ ],
+ "cover": {
+  "title": "Nie wieder alles doppelt erklären",
+  "highlight": "doppelt",
+  "subtitle": "Claude Skills einfach erklärt",
+  "tag": "CLAUDE BASICS",
+  "pose": "laptop"
+ }
 }

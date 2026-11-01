@@ -11,5 +11,7 @@ npx remotion render src/index.ts Reel "out/reel-$id.mp4" --props="public/reels/$
 mkdir -p ../reels
 # Lautstärke auf -14 LUFS und Ton nach Instagram-Vorgabe (AAC, max. 128 kbit/s, 48 kHz), sonst fehlt er nach dem Upload
 ffmpeg -loglevel error -y -i "out/reel-$id.mp4" -c:v copy -af "loudnorm=I=-14:TP=-1.5:LRA=11" -c:a aac -b:a 128k -ar 48000 -ac 2 -movflags +faststart "../reels/$date-$id.mp4"
-echo "Fertig: reels/$date-$id.mp4"
+# Startbild (Cover) aus dem "cover"-Block des Reel-Skripts
+npx remotion still src/index.ts Cover "../reels/$date-$id-cover.jpg" --props="public/reels/$id/props.json" --image-format=jpeg --jpeg-quality=92 --log=error
+echo "Fertig: reels/$date-$id.mp4 und reels/$date-$id-cover.jpg"
 echo "Metricool-URL nach dem Push: https://raw.githubusercontent.com/JVDigitalConsult/ki.toolpilot/main/reels/$date-$id.mp4"

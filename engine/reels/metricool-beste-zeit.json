@@ -103,5 +103,12 @@
     }
    ]
   }
- ]
+ ],
+ "cover": {
+  "title": "Wann solltest du posten?",
+  "highlight": "posten",
+  "subtitle": "Die Heatmap in Metricool",
+  "tag": "METRICOOL",
+  "pose": "tablet"
+ }
 }

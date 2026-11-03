@@ -1,0 +1,43 @@
+{
+  "datum": "2026-11-03",
+  "datenlage": "Testlauf ohne Metricool-Daten; nur Skript-Bewertung und Markt-Scan per Websuche",
+  "eigeneBeitraege": {
+    "follower": 1,
+    "reels": [
+      {"datum": "2026-10-30", "id": "claude-was-ist", "titel": "Was ist Claude?", "reichweite": 11, "views": 11, "quote3s": 18.2, "wiedergabeSek": 5.7, "laengeSek": 30, "gespeichert": 0, "geteilt": 0, "kommentare": 0, "scoreModell": 4.5},
+      {"datum": "2026-11-01", "id": "instagram-system", "titel": "Dein Instagram braucht ein System", "reichweite": 4, "views": 5, "quote3s": 40.0, "wiedergabeSek": 6.6, "laengeSek": 24, "gespeichert": 0, "geteilt": 0, "kommentare": 0, "scoreModell": 4.5}
+    ],
+    "lehren": [
+      "Reine Was-ist-Reels höchstens einmal pro Woche",
+      "Hooks mit Alltagsproblem oder Frage statt Definition",
+      "Pro Woche ein Reel mit belegtem aktuellem Anlass"
+    ]
+  },
+  "konkurrenz": {"hinterlegt": false, "kanaele": [], "topReels": [], "muster": []},
+  "markt": {
+    "claude": [
+      {"thema": "Claude Haiku 5.5 vorgestellt", "warum": "neues Modell, Einordnung für Einsteiger", "quelle": "anthropic.com/news", "datum": "2026-10-07"},
+      {"thema": "Agent Skills gehen an die Agentic AI Foundation", "warum": "passt zum Skills-Reel", "quelle": "anthropic.com/news", "datum": "2026-10-22"}
+    ],
+    "metricool": [
+      {"thema": "Neue Funktionen Flows, Explore insights, Instagram-Metriken", "warum": "laut Suchergebnissen, nicht direkt geprüft", "quelle": "Websuche", "datum": "2026-08/09"}
+    ],
+    "funnelcockpit": [],
+    "creatorMuster": ["Die ersten 3 Sekunden entscheiden", "Alltagsnähe schlägt Produktionsaufwand"]
+  },
+  "anstehend": [
+    {"ereignis": "Black Friday", "datum": "2026-11-27", "quelle": "Kalender"},
+    {"ereignis": "Jahresplanung und Jahresrückblick", "datum": "ab Ende November", "quelle": "Kalender"}
+  ],
+  "themenvorschlaege": [
+    {"titel": "Haiku, Sonnet, Opus: welches Claude wofür?", "tool": "claude", "blickwinkel": "Modellwahl im Alltag", "format": "3 Dinge", "hook": "Nimmst du immer das größte Modell?", "warumJetzt": "Haiku 5.5 seit Oktober", "quellen": ["anthropic.com/news"]},
+    {"titel": "Content-Plan bis Weihnachten mit Metricool", "tool": "metricool", "blickwinkel": "Jahresendplanung", "format": "Schritt für Schritt", "hook": "Dezember ohne Posting-Stress?", "warumJetzt": "Jahresende", "quellen": []},
+    {"titel": "Liste aufbauen vor Black Friday", "tool": "funnelcockpit", "blickwinkel": "Eintragungsseite vor Angebotszeit", "format": "Vorher/Nachher", "hook": "Black Friday ohne E-Mail-Liste?", "warumJetzt": "Black Friday 27.11.", "quellen": []}
+  ],
+  "vermeiden": ["Claude Duet (nicht bestätigt)", "Preise"],
+  "regelnFuerPlanung": [
+    "Höchstens ein Was-ist-Reel pro Woche",
+    "Pro Woche ein Reel mit belegtem aktuellem Anlass",
+    "Hook mit Alltagssituation oder Frage"
+  ]
+}

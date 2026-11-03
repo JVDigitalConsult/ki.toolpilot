@@ -20,6 +20,10 @@ Die Auswertung ändert nichts in Metricool, sie liest nur.
 
 ## 2. Was andere machen
 
+- **Vergleichskanäle:** Die festen Vergleichskanäle stehen in `analysen/konkurrenz.json`. Werte sie immer aus,
+  vorrangig über Metricool (siehe nächster Punkt). Fehlen dort Daten zu einem Kanal, recherchiere per WebSearch,
+  worüber er in den letzten 14 Tagen gepostet hat (Themen, Hooks, Formate, Startbilder), und kennzeichne das als
+  Websuche statt Messwert. Melde Kanäle aus der Liste, die in Metricool noch fehlen.
 - **Konkurrenz in Metricool:** `IGCO02` Name, `IGCO07` Follower, `IGCO12` Reels, `IGCO10` Engagement und
   `IGCR01` bis `IGCR10` (Reels der Konkurrenz mit Text, URL, Datum, Likes, Kommentaren, Engagement), letzte 30 Tage.
   Welche Themen, Hooks und Formate haben das höchste Engagement? Sind keine Konkurrenten hinterlegt,
